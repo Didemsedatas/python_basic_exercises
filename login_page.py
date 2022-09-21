@@ -1,3 +1,5 @@
+#Oturum açmak için kullanıcı adı ve şifre kontrolü 
+
 usersinformations = {
     "ricardo":"1234",
     "pele":"lp12",
