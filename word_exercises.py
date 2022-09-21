@@ -1,3 +1,5 @@
+#kullanıcı random çıkan ing kelimelerin anlamını girer, doğruluk kontrolü yapılır. 
+
 import random
 
 sözlük = {
