@@ -1,3 +1,5 @@
+#kullanıcının girdiği içeceğe göre kokteyl önerileri
+
 import streamlit as st
 import json
 from urllib.request import urlopen
